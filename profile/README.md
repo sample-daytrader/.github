@@ -21,4 +21,4 @@ This org also collects some useful repos for tasks such as:
 ## Contact 
 |      Name     |         Email        | Github |
 |---------------|----------------------|--------|
-| Rahul Krishna | imralk+oss@gmail.com | [@rahlk](github.com/rahlk) |
+| Rahul Krishna | imralk+oss@gmail.com | [@rahlk](https://github.com/rahlk) |
