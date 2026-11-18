@@ -1,4 +1,4 @@
-# sample-daytrader
+# Daytrader as microservices
 
 DayTrader is a sample stock-trading application.
 This organization contains a distributed version of DayTrader.
